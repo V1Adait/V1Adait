@@ -25,4 +25,4 @@ My work sits between AI engineering, security engineering and forward deployed e
 - Evals and observability
 - Secure-by-default AI infrastructure
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Hugging Face](https://huggingface.co/YOUR-HF-HANDLE) · [Fortulio](https://fortulio.com)
+[LinkedIn](https://www.linkedin.com/in/adam-a-6b6315330) ·  · [Fortulio](https://fortulio.com)
